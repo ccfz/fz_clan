@@ -20,6 +20,7 @@ group :development, :test do
   gem 'devise'
   gem 'omniauth-facebook'
   gem 'pry'
+  gem 'devise'
 end
 
 group :development do
